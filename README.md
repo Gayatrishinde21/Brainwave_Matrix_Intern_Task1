@@ -1,4 +1,6 @@
-'''sudo apt-get update'''
+'''
+sudo apt-get update
+'''
 # For Sql-client
 sudo apt-get install mysql-client
 
