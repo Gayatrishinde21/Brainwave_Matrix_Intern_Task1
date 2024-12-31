@@ -14,7 +14,7 @@
 ```sudo apt-get install python3-boto3```
 
 
-# for running application
+# For running application
 ```sudo python3 EmpApp.py```
 
 
